@@ -16,18 +16,6 @@ public class Counter {
 		count++;
 	}
 	
-	public void decrement() {
-		count--;
-	}
-	
-	public void decreaseBy(int i) {
-		count-=i;
-	}
-	
-	public void multiplyBy(int i){
-		count = count * i;
-	}
-	
 	public void triple(){
 		int i = 3;
 		multiplyBy(i);
