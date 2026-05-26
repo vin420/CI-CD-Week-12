@@ -16,10 +16,6 @@ public class Counter {
 		count++;
 	}
 	
-	public void increaseBy(int i) {
-		count+=i;
-	}
-	
 	public void decrement() {
 		count--;
 	}
