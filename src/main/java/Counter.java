@@ -48,5 +48,9 @@ public class Counter {
 	public int getCount() {
 		return count;
 	}
+
+	// Masukkan kode kotor sederhana ini
+int angkaMubazir = 50; 
+System.out.println("Aplikasi berjalan...");
 	
 }
